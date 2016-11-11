@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PoetryDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="edtFilter_hint">Buscar...</string>
+</resources>
